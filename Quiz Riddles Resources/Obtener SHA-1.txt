@@ -1,4 +1,4 @@
-En la Terminal:  ./gradlew signingReport
+Poner en la Terminal:  ./gradlew signingReport
 
 SHA1: BA:2A:57:F6:53:3A:16:C7:48:8E:76:90:E4:87:CC:4D:BE:A6:CA:A1   De la App Quiz Riddles
   
